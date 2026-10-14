@@ -1,0 +1,6 @@
+{
+  "name": "Grammar Collocation Match",
+  "description": "Interactive university English activity booth game for matching collocations, picking challenge cards, and speaking complete sentences to earn stamps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
